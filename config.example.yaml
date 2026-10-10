@@ -1,0 +1,9 @@
+# Example config for clay-roku
+
+# Default Roku IP (find via router or TV network settings)
+default_ip: "192.168.1.50"
+
+# Multiple Rokus
+# devices:
+#   living_room: "192.168.1.50"
+#   bedroom: "192.168.1.51"
